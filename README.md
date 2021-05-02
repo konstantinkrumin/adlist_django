@@ -4,7 +4,7 @@ This is a repository for a final project of the [Django for Everybody course](ht
 
 It is CRUD website for posting advertisements built in Django that allows you to login with your Github account and create advertisements with title, text, tags, price as well as attach a picture to it; also you can edit, delete them and post comments on other ads. Also you can do a search through the ads. 
 
-You can check a final version of the course project [here](https://konstantink1.pythonanywhere.com/).
+You can check a final version of the course project [HERE](https://konstantink1.pythonanywhere.com/).
 
 To test functionality you can use the following:
 - **LOGIN: test**
